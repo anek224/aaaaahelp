@@ -1,0 +1,104 @@
+* { 
+    background: rgb(247, 246, 246);
+    text-transform: uppercase;
+    font-family: f;
+}
+@font-face {
+    font-family: f;
+    src: url(img//Forum/Forum-Regular.ttf);
+} 
+.star {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase; 
+}
+.menushka {
+    display: flex;
+    justify-content: center;
+}
+.menushka ul li {
+    display: inline-block;
+    border: 1px solid #ADADAD;
+    font-size: 15px;
+    color:#ADADAD;
+    padding:10px 40px 10px 40px;
+    margin: 10px;
+    text-transform: uppercase;
+}
+.menushka .sos {
+    font-style: italic;
+    border: none;
+    color: black;
+    text-transform: none;
+    font-size: 20px;
+}
+.menushka .sos1 {
+    border-color: black;
+    background-color: black;
+    color: white;  
+}
+.osnova ul li {
+    display: inline-block;
+   
+}
+.osnova {
+    display: flex;
+    justify-content: center;
+}
+.osnova li {
+    display: block;
+    border-radius: 5px;
+    width:300px;
+    margin: 20px;
+    background-color:white;
+}
+.osnova li img {
+    border:none;
+    height: 208px;
+    background-color:white;
+}
+.osnova li div {
+    background-color:white;
+    margin: 10px;
+    text-align: left;
+    text-transform: none;
+}
+.ew1 div {
+    display: inline;
+    text-align: left;
+} 
+.ew2 div {
+    display: inline;
+    text-align: left;
+} 
+.ew3 div {
+    display: inline;
+    text-align: left;
+} 
+.bb {
+    font-weight: 10px;
+    color:#ADADAD
+}
+.knopik div {
+    display: flex;
+    justify-content: center;
+    background-image:url(img/Rectangle\ 109\ \(2\).png);
+    padding: 32px;
+}
+.knopik1 div {
+    display: flex;
+    justify-content: center;
+    background-image:url(img/Rectangle\ 109\ \(3\).png);
+    padding: 32px;
+}
+.wiwiwi {
+    display: flex;
+    justify-content: center;
+    font-weight: 10px;
+    color:#ADADAD
+}

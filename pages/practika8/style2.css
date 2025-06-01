@@ -1,0 +1,32 @@
+.wraper {
+    padding: 10px;
+}
+nav ul li {
+    display: inline-block;
+    font-size: medium;
+    color:black;
+    background: rgb(207, 178, 235);
+}
+aside {
+    text-align: right;
+    color: blue;
+    padding: 10px;
+}
+.pcl {
+    border: 1px solid black; 
+    font-family: Arial;
+    font-size: 25px;
+    padding: 10px;
+    margin:10px;
+    line-height: 33px;
+    text-align: justify;
+}
+.pcl img {
+    float: inline-start;
+    border: 1px solid black;
+    margin: 10px;
+}
+.pcl h2 {
+    text-indent: 0px;
+    text-align: left;
+}
