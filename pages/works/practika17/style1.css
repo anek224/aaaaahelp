@@ -1,0 +1,95 @@
+@font-face {
+    font-family: f;
+    src: url(Forum//Forum-Regular.ttf);
+} 
+.pikmi {
+    width: 480px;
+}
+header {
+    background: url(img/141.png);
+    background-size: cover;
+    height: 120px;
+    font-family: f;
+    font-size: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+header p {
+    margin-top: 10px;
+    margin-left: 5px;
+    color: white;
+}
+.losara img {
+    float: right;
+    margin: 5px;
+    padding: 5px;
+    width: 35px;
+}
+.losara2 img {
+    float: right;
+    margin-top: 5px;
+    padding: 5px;
+    width: 30px;
+}
+.losara1 img {
+    width: 40px;
+    padding: 0px;
+    margin-left: 5px;
+}
+.mybb ul li {
+    display: inline;
+}
+.apple {
+    display: inline;
+    margin: 0 auto;
+}
+.img img {
+    float: left;
+    margin: 0 auto;
+    width: 65px;
+}
+.ew1 p{
+    display: inline;
+    margin: 10px;
+}
+.ew1 img{
+    width: 10px;
+}
+.ew1 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+.bb p{
+    display: inline;
+    margin-left: 11px;
+    font-weight: bolder ;
+    font-size: 13px;
+}
+.bb1 p {
+    display: flex;
+    justify-content: right;
+    font-size: 13px;
+    color: rgb(128, 128, 128);
+    margin-right: 10px;
+    margin-top:0px;
+    margin-bottom: 15px ;
+} 
+.ew1 .ooo {
+    float: right;
+    margin-right: 10px;
+    width: 30px;
+    margin-top:0px;
+    margin-bottom: 0 auto ;
+}
+.azz {
+    width: 150px;
+}
+.bbj p{
+    display: inline;
+    margin-left: 11px;
+    font-weight: bolder ;
+    font-size: 13px;
+    color: rgb(128, 128, 128);
+}
