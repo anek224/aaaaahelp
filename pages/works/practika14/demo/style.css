@@ -1,0 +1,29 @@
+.box {
+    background: #2db34a;
+    background-size: cover ;
+    border-radius: 6px;
+    cursor: pointer;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+    transition-property: background;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+    width: 95px;
+}
+@keyframes slide {
+    0% {
+       width: 95px;
+       height: 95px;
+    }
+    100% {
+    height: 0px;
+    width: 0px;
+    }
+}
+.stage:hover .box {
+animation-name: slide;
+animation-duration: 2s;
+animation-timing-function: ease;
+animation-delay: .2s
+}

@@ -1,0 +1,129 @@
+* { 
+    background: rgb(242, 247, 221);
+}
+nav ul li {
+    display: inline;
+    background: white;
+    padding: 3px;
+    margin: 0 auto;
+}
+nav a {
+     background: white;
+     padding: 3px;
+     font-size: 30px;
+     color: rgb(73, 107, 59);
+}
+header {
+    font-size: 30px;
+    text-align: center;
+}
+header h1 {
+    font-style:initial;
+     color: rgb(159, 185, 109);
+      margin: 0 auto;
+}
+footer {
+        display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+     font-size: 30px;
+     color: rgb(73, 107, 59);
+}
+.mybb {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+}
+.mybb ul li {
+    display: inline-block;
+}
+.mybb li {
+    width:300px;
+    height: 350px;
+    margin: 20px;
+    background-color:white;
+    border: 0px;
+}
+.mybb li .img1 {
+    border:none;
+    width: 300px;
+    height: 160px;
+    background: url(img/1p.jpg);
+    background-size: cover;
+    background-position: -10px;
+}
+.mybb li .img2 {
+    border:none;
+    width: 300px;
+    height: 160px;
+    background: url(img/Javascript\ \(1\).png);
+    background-size: cover;
+    background-position: -1px;
+}
+.mybb li .img3 {
+    border:none;
+    width: 300px;
+    height: 142px;
+    background: url(img/2p.jpg);
+    background-size: cover;
+    background-position: -1px;
+}
+.mybb li .img4 {
+    border:none;
+    width: 300px;
+    height: 160px;;
+    background: url(img/3p.jpg);
+    background-size: cover;
+    background-position: -1px;
+}
+.mybb li .img5 {
+    border:none;
+    width: 300px;
+    height: 160px;;
+    background: url(img/4p.jpg);
+    background-size: cover;
+    background-position: -1px;
+}
+.mybb li .img6 {
+    border:none;
+    height: 180px;
+    background: url(img/rzd.png);
+    background-size: cover;
+    background-position: -1px;
+}
+.mybb li p{
+    background-color:white;
+    margin: 5px;
+    text-align: left;
+    text-transform: none;
+    margin-bottom: 30px;
+}
+.rating span {
+    background: white;
+    font-size: 20px;
+    color: rgb(233, 149, 22);
+}
+.rating  {
+    background: white;
+    margin-bottom: 50px;
+}
+.ew1 {
+     background: white;
+     text-align: right;
+     font-size: 25px;
+}
+.ew1 p {
+    display: inline;
+    background: white;
+}
+.bb {
+    font-size: 20px; 
+    color: gray;
+    text-decoration: line-through;
+}
+.rating .active1  {
+    font-size: 20px; 
+    color: gray; 
+}
