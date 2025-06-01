@@ -1,0 +1,92 @@
+.prew {
+    height: 200px;
+    width: 300px;
+}
+.new1 {
+background: url("../img/2.webp");
+background-size: cover;
+}
+.new2 {
+    background: url("../img/newsi.jpg");
+    background-size: cover;
+    }
+.new3 {
+    background: url("../img/shutterstock_153445907_5.jpg");
+    background-size: cover;
+     }
+body {
+    background: #a8b6db;
+}
+h1 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}     
+h2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}     
+h3 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}     
+* {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul li {
+    display: inline-block;
+}
+ul {
+    background: rgb(252, 242, 189);
+}
+li {
+    padding: 10px;
+}
+.content {
+    display: flex;
+}
+main {
+    width: 70%;
+}
+aside{
+    width: 30%;
+}
+.nupj {
+    display: flex;
+    gap: 10px;
+}
+main {
+    width: 30%;
+}
+section {
+    width: 70%;
+}
+.o {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+.kartink1 {
+    background: url("../img/kotek.jpg");
+    background-size: cover;
+    }
+    .kartink2 {
+        background: url("../img/kotek2.jpg");
+        background-size: cover;
+        }
+    .kartink3 {
+        background: url("../img/kotek3.jpg");
+        background-size: cover;
+         }
+         .karti1 {
+            background: url("../img/moti1.jpg") center center;
+        background-size: cover;
+         }
+         .karti2 {
+            background: url("../img/moti2.jpg") center center;
+        background-size: cover;
+         }
+         .karti3 {
+            background: url("../img/moti3.jpg") center center;
+        background-size: cover;
+         }
