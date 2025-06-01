@@ -1,0 +1,47 @@
+.osnova {
+    background: rgb(255, 238, 225);
+    height: 700px;
+    margin: 20px;
+}
+.ew {
+    display: inline-block;
+    background: url(img/4f319b1351af393725286a943bf43114.png) no-repeat rgb(0, 0, 0);
+    background-size: contain;
+    background-position-x:center ;
+    height: 700px;
+    width: 40%;
+}
+.rabot {
+    text-align: center;
+    font-size: 30px;
+    width: 600px;
+    height:700px;
+    margin-left: 1000px;
+    margin-top: -300px;
+}
+.rabot img {
+    width: 150px;
+    border: 1px solid rgb(36, 94, 133);
+    border-radius: 50%;
+} 
+.rabot p {
+    font-size: 25px;
+    font-weight: 100;
+}
+.rabot h5 {
+    margin-top:-25px ;
+    font-weight: 100;
+}
+ .rabot h3 {
+    color: rgb(36, 94, 133);
+ }
+.cl  {
+    display: flex;
+    justify-content: center;
+}
+.cl p{
+    font-size: 40px;
+}
+.cl1 p {
+color: rgb(12, 53, 129);
+}
